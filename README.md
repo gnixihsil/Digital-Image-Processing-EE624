@@ -3,9 +3,7 @@
 The input images can be found in EE_624_2016_assignment.rar
 
 # 1. Histogram Specification
-Modify the histogram of the image givenhist.jpg in such a way that the resulting his-
-togram nearly approximates the histogram of the image sphist.jpg. Display the his-
-togram of the image givenhist.jpg after this transformation.
+Modify the histogram of the image givenhist.jpg in such a way that the resulting histogram nearly approximates the histogram of the image sphist.jpg. Display the histogram of the image givenhist.jpg after this transformation.
 
 # 2. Bilateral Filter
 In this experiment, we will study the performance of the filters in de-noising images.
